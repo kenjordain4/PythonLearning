@@ -1,4 +1,4 @@
-**Higher or Lower Game
+Higher or Lower Game
 
 This program is an interactive game where the player tries to guess which of two 
 celebrities or accounts has more followers.
